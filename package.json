@@ -17,5 +17,6 @@
     "url": "git+https://github.com/Rocketseat/react-native-template-rocketseat-basic.git"
   },
   "homepage": "https://github.com/Rocketseat/react-native-template-rocketseat-basic#readme",
-  "author": "Claudio Orlandi <claudio@rocketseat.com.br>"
+  "author": "Claudio Orlandi <claudio@rocketseat.com.br>",
+  "license": "MIT"
 }
