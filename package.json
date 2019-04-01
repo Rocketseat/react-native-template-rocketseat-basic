@@ -1,0 +1,21 @@
+{
+  "name": "react-native-template-rocketseat-basic",
+  "version": "2.0.0",
+  "description": "Template para projetos em React Native, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Reactotron e Axios configurados.",
+  "keywords": [
+    "react-native",
+    "template",
+    "rocketseat",
+    "eslint",
+    "react-navigation",
+    "reactotron",
+    "babel-root-import",
+    "axios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rocketseat/react-native-template-rocketseat-basic.git"
+  },
+  "homepage": "https://github.com/Rocketseat/react-native-template-rocketseat-basic#readme",
+  "author": "Claudio Orlandi <claudio@rocketseat.com.br>"
+}
