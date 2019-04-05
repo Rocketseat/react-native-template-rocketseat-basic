@@ -21,8 +21,9 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   logo: {
-    height: Dimensions.get('window').height * 0.1,
-    marginVertical: 100,
+    height: Dimensions.get('window').height * 0.11,
+    marginVertical: Dimensions.get('window').height * 0.11,
+    width: Dimensions.get('window').height * 0.11 * (1950 / 662),
   },
   welcome: {
     color: '#fff',
@@ -34,13 +35,17 @@ const styles = StyleSheet.create({
 
 const Main = () => (
   <ImageBackground
-    source={{ uri: 'https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/background.png' }}
+    source={{
+      uri: 'https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/background.png',
+    }}
     style={styles.container}
     resizeMode="cover"
   >
     <StatusBar barStyle="light-content" backgroundColor="#7159c1" />
     <Image
-      source={{ uri: 'https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo.png' }}
+      source={{
+        uri: 'https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo.png',
+      }}
       style={styles.logo}
       resizeMode="contain"
     />
