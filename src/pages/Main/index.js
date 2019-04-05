@@ -34,13 +34,13 @@ const styles = StyleSheet.create({
 
 const Main = () => (
   <ImageBackground
-    source={require('~/images/background.png')}
+    source={{ uri: 'https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/background.png' }}
     style={styles.container}
     resizeMode="cover"
   >
     <StatusBar barStyle="light-content" backgroundColor="#7159c1" />
     <Image
-      source={require('~/images/rocketseat_logo.png')}
+      source={{ uri: 'https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo.png' }}
       style={styles.logo}
       resizeMode="contain"
     />
