@@ -28,16 +28,16 @@
 ## Tabela de Conteúdo
 
 - [Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)
-- [Detalhes sobre o Projeto](#detalhes-sobre-o-projeto)
+- [Documentação](#documenta%C3%A7%C3%A3o)
 - [Contribuição](#contribui%C3%A7%C3%A3o)
 - [Licença](#licen%C3%A7a)
 - [Contato](#contato)
 
 <!-- ABOUT THE PROJECT -->
 
-## Detalhes sobre o Projeto
+## Documentação
 
-Você pode encontrar todos os detalhes sobre esse projeto na **[Documentação Oficial](https://docs.rocketseat.dev/react-native-template-basic/introducao)**.
+Você pode encontrar a documentação completa desse projeto na **[Documentação Oficial](https://docs.rocketseat.dev/react-native-template-basic/introducao)**.
 
 <!-- CONTRIBUTING -->
 
